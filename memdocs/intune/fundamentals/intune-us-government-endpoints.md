@@ -50,6 +50,10 @@ The following tables list the ports and services that the Intune client accesses
 
 |**Endpoint**|**IP address**|
 |---------------------|-----------|
+|mobile.smartscreen.microsoft.com| |
+|nav.smartscreen.microsoft.com| |
+|in.appcenter.ms| |
+|aadcdn.msftauthimages.us| |
 |*.manage.microsoft.us | 52.243.26.209 <br> 52.247.173.11 <br> 52.227.183.12 <br>52.227.180.205 <br> 52.227.178.107 <br> 13.72.185.168 <br> 52.227.173.179 <br> 52.227.175.242 <br> 13.72.39.209 <br> 52.243.26.209 <br> 52.247.173.11 |
 | enterpriseregistration.microsoftonline.us | 13.72.188.239 <br> 13.72.55.179 |
 
